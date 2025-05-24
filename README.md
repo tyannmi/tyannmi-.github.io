@@ -1,1 +1,1 @@
-# tyannmi-.github.io
+# tyannmi.github.io
